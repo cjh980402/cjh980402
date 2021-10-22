@@ -10,8 +10,8 @@
 - ⚡ Fun fact: I play the game, MapleStory.
 - 📝 More information: https://blog.naver.com/9804cjh
 
-[![cjh980402's github stats](https://github-readme-stats.vercel.app/api?username=cjh980402&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjh980402&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| <img src="https://github-readme-stats.vercel.app/api?username=cjh980402&show_icons=true&theme=vue&count_private=true"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjh980402&layout=compact&theme=vue&langs_count=10"> |
+| --- | --- |
 
 <!--
 **cjh980402/cjh980402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
