@@ -2,12 +2,9 @@
 
 - 🔭 I’m currently working on **University of Seoul**.
 - 🌱 I’m currently learning **algorithm**.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about: cjh980402@uos.ac.kr
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I play the game, MapleStory.
+- 👯 I’m a developer of **discord bot (Soyabot, 소야봇)**.
+- 📫 How to reach me: cjh980402@uos.ac.kr
+- ⚡ Fun fact: I enjoy playing MapleStory.
 - 📝 More information: https://blog.naver.com/9804cjh
 
 | <img src="https://github-readme-stats.vercel.app/api?username=cjh980402&show_icons=true&theme=vue&count_private=true"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjh980402&layout=compact&theme=vue&langs_count=10"> |
